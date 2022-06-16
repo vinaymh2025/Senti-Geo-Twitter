@@ -1,2 +1,1 @@
-# senti-geo-twitter
-Sentiment and geographical analysis of twitter data
+We have tried to extract tweets from twitter and perform sentiment and temporal analysis on them.
